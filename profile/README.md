@@ -1,12 +1,12 @@
 # ValoTools
 
-![Banner](https://github.com/valoTools/.github/blob/main/profile/2.png)
+![Banner](https://github.com/valoTools/.github/blob/main/profile/2-1.png)
 
 
 
 # Welcome to the ValoTools Organization!
 
-This organisation contain tools that enhance your Valorant experience. Our bots are designed to provide valuable features such as shop updates, player statistics, and more.
+This organisation contain tools that enhance your Valorant experience. Our tools are designed to provide valuable features such as shop updates, player statistics, and more.
 
 ## Our Bots
 
@@ -18,13 +18,13 @@ Track your performance and improve your game! The Valorant Stat Bot offers compr
 
 ## Getting Started
 
-To get started with our bots, follow these simple steps:
+To get started with our bots/tools, follow these simple steps:
 
 1. **Invite the Bots to Your Server:**
    - Visit the bot's GitHub repository (links provided below) to find the invitation link.
    - Follow the instructions to invite the bot to your Discord server.
 
-2. **Configure the Bots:**
+2. **Configure the Bot:**
    - Use the bot commands provided in the repository's README to configure the bots according to your needs.
    - Customize settings to receive the most relevant updates and stats for you.
 
@@ -44,7 +44,7 @@ For support, updates, and community interaction, join our [Discord Server](https
 
 ## Contributions
 
-We welcome contributions from the community! If you're a developer and interested in improving our bots, feel free to fork the repository and submit pull requests. Please read our contribution guidelines before getting started.
+We welcome contributions from the community! If you're a developer and interested in improving our tools, feel free to fork the repository and submit pull requests. Please read our contribution guidelines before getting started.
 
 ## Connect with Us
 
