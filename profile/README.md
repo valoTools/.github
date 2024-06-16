@@ -6,7 +6,7 @@
 
 # Welcome to the ValoTools Organization!
 
-Welcome to the official GitHub organization ValoTools! We specialize in creating powerful and user-friendly Discord bots that enhance your Valorant experience. Our bots are designed to provide valuable features such as shop updates, player statistics, and more. Whether you're a casual player or a competitive enthusiast, our bots have something to offer you.
+This organisation contain tools that enhance your Valorant experience. Our bots are designed to provide valuable features such as shop updates, player statistics, and more.
 
 ## Our Bots
 
