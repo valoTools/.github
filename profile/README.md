@@ -1,6 +1,7 @@
 # ValoTools
 
-![Banner](https://github.com/valoTools/.github/tree/main/profile/2.png)
+![Banner](https://github.com/valoTools/.github/blob/main/profile/2.png)
+
 
 
 # Welcome to the ValoTools Organization!
