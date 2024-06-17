@@ -1,6 +1,6 @@
 # ValoTools
 
-![Banner](https://github.com/valoTools/.github/blob/main/profile/2-1.png)
+![Banner](https://github.com/valoTools/.github/blob/main/profile/banner.png)
 
 
 
@@ -11,7 +11,7 @@ This organisation contain tools that enhance your Valorant experience. Our tools
 ## Our Bots
 
 ### 1. Valorant Shop Bot
-Stay updated with the latest in-game shop offers! The Valorant Shop Bot provides real-time notifications of current shop items, helping you never miss out on your favorite skins and deals.
+Stay updated with the latest in-game shop offers! The Valorant Shop Bot provides current shop items, bundles details, owned skins, nightmarket, accessory store and many more.
 
 ### 2. Valorant Stat Bot
 Track your performance and improve your game! The Valorant Stat Bot offers comprehensive statistics on your gameplay, including match history, K/D ratios, and other vital metrics to help you analyze and enhance your skills.
